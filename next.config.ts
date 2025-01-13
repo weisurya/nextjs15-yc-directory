@@ -12,7 +12,11 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'marketplace.canva.com',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'avatars.githubusercontent.com',
+      },
     ]
   },
   // experimental: {
